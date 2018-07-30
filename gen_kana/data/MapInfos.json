@@ -1,5 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"初期教室","order":1,"parentId":0,"scrollX":950.4,"scrollY":750},
-{"id":2,"expanded":false,"name":"廊下","order":2,"parentId":0,"scrollX":1448.5714285714284,"scrollY":1071.4285714285713}
+{"id":1,"expanded":true,"name":"初期教室(教室B)","order":2,"parentId":2,"scrollX":847,"scrollY":665},
+{"id":2,"expanded":true,"name":"一階廊下","order":1,"parentId":0,"scrollX":847,"scrollY":649},
+{"id":3,"expanded":true,"name":"教室A","order":3,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"教室C","order":4,"parentId":2,"scrollX":635.25,"scrollY":498.75},
+{"id":5,"expanded":true,"name":"教室D","order":5,"parentId":2,"scrollX":847,"scrollY":665},
+{"id":6,"expanded":true,"name":"教室E","order":6,"parentId":2,"scrollX":635.25,"scrollY":498.75}
 ]
